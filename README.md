@@ -1,4 +1,4 @@
-#Project overview
+cd #Project overview
 This project displays My Career Journey till now. It has been created using the REACT js with comonents like Axios, React- router etc. For the designing framework I have used tailwind CSS.
 
 The live working demo of the project can be found at
