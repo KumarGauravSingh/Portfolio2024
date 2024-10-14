@@ -20,11 +20,11 @@ function App() {
     <div>
     <NavBar />
     <Routes>
-    <Route path="/Portfolio" element={<BodyMain />} />
-    <Route path="/Portfolio/contact" element={<Contact />} />
-    <Route path="/Portfolio/journey" element={<Journey />} />
-    <Route path="/Portfolio/skills" element={<Skills />} />
-    <Route path="/Portfolio/projects" element={<GetLatestRepos />} />
+    <Route path="/Portfolio2024" element={<BodyMain />} />
+    <Route path="/Portfolio2024/contact" element={<Contact />} />
+    <Route path="/Portfolio2024/journey" element={<Journey />} />
+    <Route path="/Portfolio2024/skills" element={<Skills />} />
+    <Route path="/Portfolio2024/projects" element={<GetLatestRepos />} />
     <Route
       path="*"
       element={
