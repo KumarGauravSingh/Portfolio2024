@@ -1,0 +1,73 @@
+.animeCard1 {
+    width: 100px;
+    height: 75px;
+    background-color: red;
+    position: relative;
+    animation-name: CardAnimation1;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    margin-bottom: 10px;
+  }
+
+  @keyframes CardAnimation1 {
+    0%   {background-color:red; left:0px; top:0px;}
+    100%  {background-color:yellow; left:0px; top:0px; width:150%;}
+  }
+
+  .animeCard2 {
+    width: 0px;
+    height: 75px;
+    background-color: #33C4FF ;
+    position: relative;
+    animation-name: CardAnimation2;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-delay: 2s;
+    margin-bottom: 10px;
+  }
+
+  @keyframes CardAnimation2 {
+    0%   {background-color:#33C4FF ; left:0px; top:0px;}
+    100%  {background-color:#59E11E ; left:0px; top:0px; width:150%;}
+  }
+
+  .animeCard3 {
+    width: 0px;
+    height: 75px;
+    background-color: FFF933;
+    position: relative;
+    animation-name: CardAnimation3;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-delay: 4s;
+    margin-bottom: 10px;
+  }
+
+  @keyframes CardAnimation3 {
+    0%   {background-color:FFF933; left:0px; top:0px;}
+    100%  {background-color:#FF8333 ; left:0px; top:0px; width:150%;}
+  }
+
+
+  @media screen and (max-width: 767px)
+		{
+      @keyframes CardAnimation1 {
+        0%   {background-color:red; left:0px; top:0px;}
+        100%  {background-color:yellow; left:0px; top:0px; width:100%;}
+      }
+  
+        
+       @keyframes CardAnimation2 {
+        0%   {background-color:#33C4FF ; left:0px; top:0px;}
+        100%  {background-color:#59E11E ; left:0px; top:0px; width:100%;}
+       }
+
+
+       @keyframes CardAnimation3 {
+        0%   {background-color:FFF933; left:0px; top:0px;}
+        100%  {background-color:#FF8333 ; left:0px; top:0px; width:100%;}
+       }
+    }

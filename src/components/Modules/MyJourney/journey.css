@@ -1,0 +1,23 @@
+.linecontent:before{
+    content: '';
+   }
+   .direction-rtl{
+   direction: rtl;
+   }
+   .padding-future{
+   padding-left:40%
+   }
+   .marker{
+    border-radius:50%; 
+    z-index: 9999;
+   }
+   
+   @media screen and (max-width: 768px) {
+   .direction-rtl{
+   direction: ltr;
+   }
+   .padding-future{
+   padding-left:0px;
+   }
+   }
+
