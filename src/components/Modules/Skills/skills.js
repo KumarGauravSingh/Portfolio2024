@@ -6,6 +6,7 @@ import os from '../../Images/os.png';
 import rhel from '../../Images/redhat.png';
 import monitoring from '../../Images/monitoring.png';
 import grafana from '../../Images/grafana.png';
+import vmware from '../../Images/vmware.png';
 import docker from '../../Images/docker.png';
 import bash from '../../Images/bash.png';
 import webserver from '../../Images/webserver.png';
@@ -203,22 +204,22 @@ return (
                         </div>
                     </div>
                 </div>
-    <div className="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
-      <div className="rounded-lg m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-300">
-        <figure className="mb-2">
-          <img src={frontend} alt="" className="h-16 mx-auto" />
-        </figure>
-        <div className="rounded-lg p-4 flex flex-col">
-          <div>
-            <h5 className="text-green-600 text-2xl font-bold leading-none text-center">
-              Front End Development
-            </h5>
-            <span className="text-gray-600 leading-none text-center font-sans font-semibold">Can create beautiful applications with REACT in the frontend</span>
-          </div>
-         
-        </div>
-      </div>
-    </div>
+                <div className="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
+                    <div className="rounded-lg m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-300">
+                        <figure className="mb-2">
+                            <img src={vmware} alt="" className="h-16 mx-auto" />
+                        </figure>
+                        <div className="rounded-lg p-4 flex flex-col">
+                            <div>
+                                <h5 className="text-green-600 text-2xl font-bold leading-none text-center">
+                                    Vmware
+                                </h5>
+                                <span className="text-gray-600 leading-none text-center font-sans font-semibold">Can do basics like create and manage VMs, Alarms etc</span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
     <div className="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
       <div className="rounded-lg m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-300">
         <figure className="mb-2">
@@ -242,6 +243,22 @@ return (
 
         <div className="flex items-center w-screen">
             <div className="container mx-auto flex flex-wrap items-start">
+                <div className="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
+                    <div className="rounded-lg m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-300">
+                        <figure className="mb-2">
+                            <img src={frontend} alt="" className="h-16 mx-auto" />
+                        </figure>
+                        <div className="rounded-lg p-4 flex flex-col">
+                            <div>
+                                <h5 className="text-green-600 text-2xl font-bold leading-none text-center">
+                                    Front End Development
+                                </h5>
+                                <span className="text-gray-600 leading-none text-center font-sans font-semibold">Can create beautiful applications with REACT in the frontend</span>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
                 <div className="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
                     <div className="rounded-lg m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-300">
                         <figure className="mb-2">

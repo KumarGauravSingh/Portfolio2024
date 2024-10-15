@@ -3,7 +3,7 @@ This project displays My Career Journey till now. It has been created using the 
 
 The live working demo of the project can be found at
 
-[https://kumargauravsingh.github.io/Portfolio/)
+[https://kumargauravsingh.github.io/Portfolio2024/)
 
 
 Following are some generic ommands that you can use to run the app on your local development environment.
