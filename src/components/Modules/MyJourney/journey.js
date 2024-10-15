@@ -105,7 +105,7 @@ return (
             <div className="md:flex md:justify-between md:clear-both md:w-[calc(50%_+_8px)] md:float-left float-none direction-rtl">
                 <div className="w-4 h-4 bg-blue-400 mt-2 border-2 marker"></div>
                 <div className="w-11/12 px-3.5">
-                    <h3 className="mt-1 mb-1 text-2xl font-medium">Velocis Systems Pvt Ltd (Aug 2024 - Present)</h3>
+                    <h3 className="mt-1 mb-1 text-2xl font-medium">Velocis Systems Pvt Ltd (Apr 2024 - Present)</h3>
                     <span className="text-sm text-gray-500">Deployed at CCC, National Informatics Centre </span>
                     <p className="text-sm">Along with the database administration task I was assigned to manage the monitoring tools of the NIC for monitoring all the servers and infra in the NIC private cloud.</p>
                 </div>
