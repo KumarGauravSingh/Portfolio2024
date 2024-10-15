@@ -63,7 +63,7 @@ return (
 <div className="md:flex md:justify-between md:clear-both md:w-[calc(50%_+_8px)] md:float-right    w-full mb-7 float-none">
    <div className="w-4 h-4 bg-blue-400 mt-2 border-2 marker"></div>
    <div className="w-11/12 px-3.5">
-      <h3 className="mt-1 mb-1 text-2xl font-medium">DAV-ITC (Dec 2016 - Sep 2017)</h3>
+      <h3 className="mt-1 mb-1 text-2xl font-medium">DAV-ITC (Dec 2016 - Oct 2017)</h3>
       <span className="text-sm text-gray-500">First Job </span>
       <p className="text-sm">It was a non-profit organization. I was assigned with the role of Software Developer and Support Engineer. I primarily designed the UI and frontend for the client projects and also had to troubleshoot server issues.</p>
    </div>
