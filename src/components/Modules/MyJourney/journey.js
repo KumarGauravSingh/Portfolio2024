@@ -90,7 +90,7 @@ return (
                 <div className="w-11/12 px-3.5">
                     <h3 className="mt-1 mb-1 text-2xl font-medium">Infosys (Aug 2022 - Nov 2022)</h3>
                     <span className="text-sm text-gray-500">Deployed as Tech Lead</span>
-                    <p className="text-sm">I got the job as a Tech Lead in the JAVA development area. However the things did not work out due to my lack of experience in micro services development. I decided to eave after a short stint at the company. </p>
+                    <p className="text-sm">I got the job as a Tech Lead in the JAVA development area. However the things did not work out due to differences in our expectations. I decided to leave after a short stint at the company. </p>
                 </div>
             </div>
 
